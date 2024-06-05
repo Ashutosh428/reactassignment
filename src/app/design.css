@@ -1,0 +1,11 @@
+.iconstop{
+    display: flex;
+    justify-content: end;
+    gap:30px;
+}
+.menuicon{
+    max-width: 33px !important;
+}
+.card-body{
+    height: 160px;
+}
